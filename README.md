@@ -1,12 +1,12 @@
-## Capstone Healthcare
+# Capstone Healthcare
 
 
-# Objective
+### Objective
 Identify areas of growth for Minnesota re: uninsured populations
 Research demographics for areas with high rates of uninsured people
 
 
-# Exploratory Questions
+### Exploratory Questions
   * How do rates of uninsured vary among various demographics (race, age, sex, population, income, educational attainment level)
   * How does access to health care vary (by county?)
   * Do rates of uninsurance vary based on offered plan types? 
@@ -15,7 +15,7 @@ Research demographics for areas with high rates of uninsured people
 
 
 
-# Initial datasets:
+### Initial datasets:
   * Census SAHIE 
   * BRFSS: Healthcare Access/Coverage
   * Healthcare estimates by demographics & population (Census)
