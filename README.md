@@ -17,5 +17,10 @@ Research demographics for areas with high rates of uninsured people
 
 ### Initial datasets:
   * Census SAHIE 
+      * [2008 - 2020 Small Area Health Insurance Estimates (SAHIE) using the American Community Survey (ACS) ](https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html)
   * BRFSS: Healthcare Access/Coverage
+      * [BRFSS: Table of Health Care Access/Coverage | Chronic Disease and Health Promotion Data & Indicators (cdc.gov)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-Table-of-Health-Care-Access-Coverage/f7a2-7inb)
   * Healthcare estimates by demographics & population (Census)
+      * [S2701: SELECTED CHARACTERISTICS OF... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2701&moe=false)
+      * Private health insurance: [S2703: PRIVATE HEALTH INSURANCE... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2703)
+      * Public health insurance: [S2704: PUBLIC HEALTH INSURANCE... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2704)
