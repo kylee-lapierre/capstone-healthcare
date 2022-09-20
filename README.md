@@ -10,10 +10,11 @@ We are interested in understanding the factors that lead to a lack of health ins
 
 ### Exploratory Questions
   * How do rates of uninsured vary among various demographics (race, age, sex, population, income, educational attainment level)
-  * How does access to health care vary (by county?)
+  * How does access to health care vary (by county)?
   * Do rates of uninsurance vary based on offered plan types? 
-  * Does the percent/population of uninsured/insured individuals change where access to care is less available (for 2021 by using population data)?
+  * Does the percent/population of uninsured/insured individuals change where access to care is less available?
   * Can we predict which areas will have more/less coverage based on demographics, income, or other factors?
+  * For people who are covered, is it sufficient coverage?
 
 
 
@@ -28,3 +29,6 @@ We are interested in understanding the factors that lead to a lack of health ins
       * Public health insurance: [S2704: PUBLIC HEALTH INSURANCE... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2704)
    * [Hopsital count by county in Minnesota for 2012 to 2020](https://data.census.gov/cedsci/table?q=hospital%20cb&g=0400000US27,27%240500000)
    * [Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (2011 to Present)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/j32a-sa6u/data)
+   * [Health Access survey](https://mnha.web.health.state.mn.us/PublicQuery.action)
+   * [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/index.htm)
+   * [Population estimates and demographics by county for Minnesota from 2010 to 2021](https://data.census.gov/cedsci/table?q=county%20population&g=0400000US27,27%240500000&tid=ACSDP1Y2021.DP05&moe=false)
