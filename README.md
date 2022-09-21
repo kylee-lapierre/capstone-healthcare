@@ -2,7 +2,7 @@
 
 
 ### Objective
-Health insurance is a type of insurance that covers a portion of the cost of medical expenses. There is a portion of the population that is uninsured in the United States; understanding the factors behind lacking health insurance or sufficient access to healthcare could illuminate the way to improve health insurance coverage in the country. For the purpose of this work, those with *sufficient access to healthcare* include people who do not delay or avoid seeking healthcare services due to cost. Uninsured includes those who do not have health insurance.
+Health insurance is a type of insurance that covers a portion of the cost of medical expenses. There is a portion of the population that is uninsured in the United States; understanding the factors behind lacking health insurance or sufficient access to healthcare could illuminate the way to improve health insurance coverage in the country. For the purpose of this work, those with *sufficient access to healthcare* include people who do not delay or avoid seeking healthcare services due to cost. *Uninsured* includes those who do not have health insurance.
 
 We are interested in understanding the factors that lead to a lack of health insurance and lacking health insurance or sufficient access to healthcare Nationwide in 2019. We are looking into the different demographics and proximity to healthcare providers to see how these play a role in someone’s insurance status.
 
