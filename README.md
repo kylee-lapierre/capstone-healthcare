@@ -29,6 +29,6 @@ We are interested in understanding the factors that lead to a lack of health ins
       * Private health insurance: [S2703: PRIVATE HEALTH INSURANCE... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2703)
       * Public health insurance: [S2704: PUBLIC HEALTH INSURANCE... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2704)
    * [Hopsital count by county in Minnesota for 2019](https://data.census.gov/cedsci/table?q=hospital%20cb&g=0400000US27,27%240500000)
-   * [Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (2011 to Present)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/j32a-sa6u/data)
+   * [Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (Subset for 2019)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/j32a-sa6u/data)
    * [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/index.htm)
    * [Population estimates and demographics by county for Minnesota for 2019](https://data.census.gov/cedsci/table?q=county%20population&g=0400000US27,27%240500000&tid=ACSDP1Y2021.DP05&moe=false)
