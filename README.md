@@ -35,4 +35,3 @@ We are interested in understanding the factors that lead to a lack of health ins
 
 
 
-![Capstone ERD](https://user-images.githubusercontent.com/110693932/192124507-25fdf39b-9d17-45fe-b722-c48c9955c568.png)
