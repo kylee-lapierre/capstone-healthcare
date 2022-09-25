@@ -35,3 +35,5 @@ We are interested in understanding the factors that lead to a lack of health ins
 
 
 
+### Entity Relationship Diagram:
+![CapstoneERD](https://user-images.githubusercontent.com/110693932/192169135-99c7c980-2764-420c-8ab8-679fea5df12e.png)
