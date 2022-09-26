@@ -39,6 +39,6 @@ We are interested in understanding the factors that lead to a lack of health ins
 ![CapstoneERD](https://user-images.githubusercontent.com/110693932/192169135-99c7c980-2764-420c-8ab8-679fea5df12e.png)
 
 
-### Data Platform Diagram
+### Data Platform Diagram:
 ![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192174134-736cc308-6667-4cdd-bb4c-1c6bba8ca22a.png)
 
