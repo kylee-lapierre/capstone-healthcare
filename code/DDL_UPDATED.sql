@@ -90,8 +90,8 @@ CREATE TABLE Metro(
     CONSTRAINT FK_Metro_ResponseID
         FOREIGN KEY (ResponseID)
         REFERENCES Response(ResponseID),
-    Location_Desc VARCHAR(50) NOT NULL,
-    Data_Value FLOAT NOT NULL,
+    Location_Desc VARCHAR(150) NOT NULL,
+    Data_Value FLOAT NULL,
     Sample_Size INT NOT NULL
 )
 
@@ -106,24 +106,24 @@ CREATE TABLE Sahie(
     CONSTRAINT FK_Sahie_CountyID
         FOREIGN KEY (CountyID)
         REFERENCES County(CountyID),
-    Age_Cat VARCHAR(50) NOT NULL,
-    Race_Cat VARCHAR(50) NOT NULL,
-    Sex_Cat VARCHAR(50) NOT NULL,
-    Income_Cat VARCHAR(50) NOT NULL,
-    Num_Demo VARCHAR(50) NOT NULL, 
-    Num_Demo_MOE VARCHAR(50) NOT NULL,
+    agecat VARCHAR(50) NOT NULL,
+    racecat VARCHAR(50) NOT NULL,
+    sexcat VARCHAR(50) NOT NULL,
+    incomecat VARCHAR(50) NOT NULL,
+    numdemo VARCHAR(50) NOT NULL, 
+    numdemo_moe VARCHAR(50) NOT NULL,
     NUI VARCHAR(50) NOT NULL,
-    NUI_MOE VARCHAR(50) NOT NULL,
+    nui_moe VARCHAR(50) NOT NULL,
     NI VARCHAR(50) NOT NULL,
-    NI_MOE VARCHAR(50) NOT NULL,
-    PCTUI_Demo VARCHAR(50) NOT NULL,
-    PCTUI_Demo_MOE VARCHAR(50) NOT NULL,
-    PCTI_Demo VARCHAR(50) NOT NULL,
-    PCTI_Demo_MOE VARCHAR(50) NOT NULL,
+    ni_moe VARCHAR(50) NOT NULL,
+    PCTUIdemo VARCHAR(50) NOT NULL,
+    PCTUIdemo_moe VARCHAR(50) NOT NULL,
+    PCTIdemo VARCHAR(50) NOT NULL,
+    PCTIdemo_moe VARCHAR(50) NOT NULL,
     PCTUI VARCHAR(50) NOT NULL,
-    PCTUI_MOE VARCHAR(50) NOT NULL,
+    pctui_moe VARCHAR(50) NOT NULL,
     PCTI VARCHAR(50) NOT NULL,
-    PCTI_MOE VARCHAR(50) NOT NULL
+    pcti_moe VARCHAR(50) NOT NULL
 )
 
 -- PublicCoverageMinnesota Table
@@ -219,7 +219,7 @@ CREATE TABLE HealthInsurance(
     CONSTRAINT FK_HealthInsurance_CountyID
         FOREIGN KEY (CountyID)
         REFERENCES County(CountyID),
-    Population_Category VARCHAR(50) NOT NULL,
+    Insurance_Category VARCHAR(50) NOT NULL,
     Total_Population INT NOT NULL,
     Under_6Y INT NOT NULL,
     _6_to_18Y INT NOT NULL,
@@ -362,14 +362,8 @@ CREATE TABLE HealthModel(
 -- Test Demographic Data
 CREATE TABLE TestDemo(
     PopDemoID INT PRIMARY KEY IDENTITY(1,1),
-    StateID INT NOT NULL,
-    CONSTRAINT FK_PopDemo_StateID
-        FOREIGN KEY (StateID)
-        REFERENCES [State](StateID),
-    CountyID INT NOT NULL,
-    CONSTRAINT FK_HealthInsurance_CountyID
-        FOREIGN KEY (CountyID)
-        REFERENCES County(CountyID),
+    [State] VARCHAR(50) NOT NULL,
+    County VARCHAR(50) NOT NULL,
     Total_Population INT NOT NULL, 
     Male INT NOT NULL, 
     Female INT NOT NULL, 
