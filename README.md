@@ -40,5 +40,6 @@ We are interested in understanding the factors that lead to a lack of health ins
 
 
 ### Data Platform Diagram:
-![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192174134-736cc308-6667-4cdd-bb4c-1c6bba8ca22a.png)
+![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192818805-a0e8ec38-2a1c-4a01-8849-2e7805281b0c.png)
+
 
