@@ -128,12 +128,16 @@ CREATE TABLE Sahie(
 )
 
 -- PublicCoverageMinnesota Table
-CREATE TABLE PublicCoverage(
+CREATE TABLE PublicCoverageMinnesota(
     PublicID INT PRIMARY KEY IDENTITY(1,1),
     CountyID INT NOT NULL,
     CONSTRAINT FK_PublicCoverage_CountyID
         FOREIGN KEY (CountyID)
         REFERENCES County(CountyID),
+   StateID INT NOT NULL,
+    CONSTRAINT FK_PublicCoverage_StateID
+        FOREIGN KEY (StateID)
+        REFERENCES [State](StateID),
     Medicare VARCHAR(50) NOT NULL,
     [Medicare<19]  VARCHAR(50) NOT NULL,
     [Medicare19-64] VARCHAR(50) NOT NULL,
@@ -165,12 +169,16 @@ CREATE TABLE PublicCoverage(
 )
 
 -- PrivateCoverageMinnesota Table
-CREATE TABLE PrivateCoverage(
+CREATE TABLE PrivateCoverageMinnesota(
     PrivateID INT PRIMARY KEY IDENTITY(1,1),
     CountyID INT NOT NULL,
     CONSTRAINT FK_PrivateCoverage_CountyID
         FOREIGN KEY (CountyID)
         REFERENCES County(CountyID),
+    StateID INT NOT NULL,
+    CONSTRAINT FK_PrivateCoverage_StateID
+        FOREIGN KEY (StateID)
+        REFERENCES [State](StateID),
     Employer VARCHAR(50) NOT NULL,
     [Employer<19]  VARCHAR(50) NOT NULL,
     [Employer19-64] VARCHAR(50) NOT NULL,
