@@ -1,6 +1,5 @@
 -- Join Tables
 
-
 -- State Table
 CREATE TABLE [State](
     StateID INT PRIMARY KEY IDENTITY(1,1), 
