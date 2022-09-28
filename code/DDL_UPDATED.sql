@@ -322,8 +322,14 @@ CREATE TABLE Nhis(
 -- Health Model Table
 CREATE TABLE HealthModel(
     HealthModelID INT PRIMARY KEY IDENTITY(1,1),
-    [State] VARCHAR(50) NOT NULL,
-    County VARCHAR(50) NOT NULL,
+    StateID INT NOT NULL,
+    CONSTRAINT FK_HealthInsurance_StateID
+        FOREIGN KEY (StateID)
+        REFERENCES [State](StateID),
+    CountyID INT NOT NULL,
+    CONSTRAINT FK_HealthInsurance_CountyID
+        FOREIGN KEY (CountyID)
+        REFERENCES County(CountyID),
     Insurance_Category VARCHAR(50) NOT NULL,
     Total_Population INT NOT NULL,
     Under_6Y INT NOT NULL,
