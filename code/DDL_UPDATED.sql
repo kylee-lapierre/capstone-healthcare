@@ -322,14 +322,8 @@ CREATE TABLE Nhis(
 -- Health Model Table
 CREATE TABLE HealthModel(
     HealthModelID INT PRIMARY KEY IDENTITY(1,1),
-    StateID INT NOT NULL,
-    CONSTRAINT FK_HealthInsurance_StateID
-        FOREIGN KEY (StateID)
-        REFERENCES [State](StateID),
-    CountyID INT NOT NULL,
-    CONSTRAINT FK_HealthInsurance_CountyID
-        FOREIGN KEY (CountyID)
-        REFERENCES County(CountyID),
+    [State] VARCHAR(50) NOT NULL,
+    County VARCHAR(50) NOT NULL,
     Insurance_Category VARCHAR(50) NOT NULL,
     Total_Population INT NOT NULL,
     Under_6Y INT NOT NULL,
@@ -364,4 +358,40 @@ CREATE TABLE HealthModel(
     _75000_to_99999S INT NOT NULL,
     Over_100000S INT NOT NULL,
     [Year] INT NOT NULL
+)
+
+-- Test Demographic Data
+CREATE TABLE TestDemo(
+    PopDemoID INT PRIMARY KEY IDENTITY(1,1),
+    StateID INT NOT NULL,
+    CONSTRAINT FK_PopDemo_StateID
+        FOREIGN KEY (StateID)
+        REFERENCES [State](StateID),
+    CountyID INT NOT NULL,
+    CONSTRAINT FK_HealthInsurance_CountyID
+        FOREIGN KEY (CountyID)
+        REFERENCES County(CountyID),
+    Total_Population INT NOT NULL, 
+    Male INT NOT NULL, 
+    Female INT NOT NULL, 
+    Under_5Y INT NOT NULL, 
+    _5_to_9Y INT NOT NULL, 
+    _10_to_14Y INT NOT NULL, 
+    _15_to_19Y INT NOT NULL, 
+    _20_to_24Y INT NOT NULL, 
+    _25_to_34Y INT NOT NULL, 
+    _35_to_44Y INT NOT NULL, 
+    _45_to_54Y INT NOT NULL, 
+    _55_to_59Y INT NOT NULL,
+    _60_to_64Y INT NOT NULL, 
+    _65_to_74Y INT NOT NULL, 
+    _75_to_84Y INT NOT NULL, 
+    _85_and_Older INT NOT NULL, 
+    Hispanic INT NOT NULL, 
+    White INT NOT NULL, 
+    African_American INT NOT NULL, 
+    American_Indian INT NOT NULL, 
+    Asian INT NOT NULL, 
+    Pacific_Islander INT NOT NULL, 
+    Some_Other_Race INT NOT NULL
 )
