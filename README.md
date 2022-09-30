@@ -45,21 +45,21 @@ We are interested in understanding the factors that lead to a lack of health ins
 
 
 ### Library versions for other Jupyter notebooks
-* Requests version: 2.28.1
-* Pyspark version: 3.3.0
-* Pandas version: 1.3.4
 * Numpy version: 1.20.3
+* Pandas version: 1.3.4
+* Pyspark version: 3.3.0
+* Requests version: 2.28.1
 * Scipy version: 1.7.1
-* Statsmodels version: 0.12.2
 * Sklearn version: 0.24.2
 * Sodapy version: 2.2.0
+* Statsmodels version: 0.12.2
 
 
 ### Library versions for running ML Model
-* Pandas version: 1.5.0
+* Python version: 3.10.6
 * Matplotlib version:3.6.0
 * Numpy version: 1.23.3
-* Seaborn version: 0.12.0
+* Pandas version: 1.5.0
 * Pymssql version: 2.2.5
-* Python version: 3.10.6
+* Seaborn version: 0.12.0
 * Sklearn version: 1.1.2
