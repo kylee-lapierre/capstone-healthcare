@@ -44,3 +44,11 @@ We are interested in understanding the factors that lead to a lack of health ins
 ![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192818805-a0e8ec38-2a1c-4a01-8849-2e7805281b0c.png)
 
 
+### Library versions for running ML Model
+* Pandas version: 1.5.0
+* Matplotlib version:3.6.0
+* Numpy version: 1.23.3
+* Seaborn version: 0.12.0
+* Pymssql version: 2.2.5
+* Python version: 3.10.6
+* Sklearn version: 1.1.2
