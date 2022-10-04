@@ -1,4 +1,4 @@
-# Capstone Healthcare
+# Characteristics of Health Insurance and Access to Care across the United States and Minnesota
 
 
 ### Objective
