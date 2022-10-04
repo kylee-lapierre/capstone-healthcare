@@ -10,8 +10,8 @@ We are interested in understanding the factors that lead to a lack of health ins
 
 ### Exploratory Questions
   * How do unisurance rates vary among various demographics such as race, age, sex, population, income, educational attainment level?
-  * How does access to health care vary at a national level and by county?
-  * How does access to health care vary among Minnesota counties?
+  * How does access to healthcare vary at a national level and by county?
+  * How does access to healthcare vary among Minnesota counties?
   * Do rates of uninsurance vary based on offered coverage types? 
   * Does the rate of uninsurance vary for individuals based on the number of hospitals in their county?
   * Can we predict which areas will have more or less coverage based on demographics, income, hospital count or other factors?
