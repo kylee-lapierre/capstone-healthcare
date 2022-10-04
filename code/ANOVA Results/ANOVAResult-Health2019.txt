@@ -1,0 +1,90 @@
+Undersixyears C(InsuranceCategory, Sum)    1.912759e-44
+Residual                              NaN
+Name: PR(>F), dtype: float64
+sixtoeighteenyears C(InsuranceCategory, Sum)    1.527032e-51
+Residual                              NaN
+Name: PR(>F), dtype: float64
+nineteentotwentyfiveyears C(InsuranceCategory, Sum)    6.862005e-39
+Residual                              NaN
+Name: PR(>F), dtype: float64
+twentysixtothirtyfouryears C(InsuranceCategory, Sum)    3.586885e-30
+Residual                              NaN
+Name: PR(>F), dtype: float64
+thirtyfivetofourtyfouryears C(InsuranceCategory, Sum)    5.377525e-37
+Residual                              NaN
+Name: PR(>F), dtype: float64
+fourtyfivetofiftyfouryears C(InsuranceCategory, Sum)    3.732886e-43
+Residual                              NaN
+Name: PR(>F), dtype: float64
+fiftyfivetosixtyfouryears C(InsuranceCategory, Sum)    2.363712e-53
+Residual                              NaN
+Name: PR(>F), dtype: float64
+sixtyfivetoseventyfouryears C(InsuranceCategory, Sum)    1.290257e-39
+Residual                              NaN
+Name: PR(>F), dtype: float64
+seventyfiveandmoreyears C(InsuranceCategory, Sum)    4.285862e-16
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Male C(InsuranceCategory, Sum)    6.726578e-46
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Female C(InsuranceCategory, Sum)    6.319782e-49
+Residual                              NaN
+Name: PR(>F), dtype: float64
+White C(InsuranceCategory, Sum)    1.933842e-64
+Residual                              NaN
+Name: PR(>F), dtype: float64
+AfricanAmerican C(InsuranceCategory, Sum)    6.508492e-28
+Residual                              NaN
+Name: PR(>F), dtype: float64
+AmericanIndian C(InsuranceCategory, Sum)    3.261984e-09
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Asian C(InsuranceCategory, Sum)    2.663215e-12
+Residual                              NaN
+Name: PR(>F), dtype: float64
+PacificIslander C(InsuranceCategory, Sum)    0.005446
+Residual                          NaN
+Name: PR(>F), dtype: float64
+Someotherrace C(InsuranceCategory, Sum)    0.000019
+Residual                          NaN
+Name: PR(>F), dtype: float64
+Hispanic C(InsuranceCategory, Sum)    1.080597e-09
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Nativeborn C(InsuranceCategory, Sum)    1.263567e-62
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Foreignborn C(InsuranceCategory, Sum)    1.289304e-09
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Naturalized C(InsuranceCategory, Sum)    3.723957e-11
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Notacitizen C(InsuranceCategory, Sum)    0.000088
+Residual                          NaN
+Name: PR(>F), dtype: float64
+Lessthanhighschoolgraduate C(InsuranceCategory, Sum)    9.864890e-14
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Highschoolgraduate C(InsuranceCategory, Sum)    3.707637e-54
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Somecollege C(InsuranceCategory, Sum)    1.956188e-53
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Bachelors C(InsuranceCategory, Sum)    3.465437e-46
+Residual                              NaN
+Name: PR(>F), dtype: float64
+Undertwentyfive C(InsuranceCategory, Sum)    2.854008e-40
+Residual                              NaN
+Name: PR(>F), dtype: float64
+twentyfivetofourtyninesalary C(InsuranceCategory, Sum)    1.808722e-41
+Residual                              NaN
+Name: PR(>F), dtype: float64
+fiftytoseventyfoursalary C(InsuranceCategory, Sum)    3.764336e-46
+Residual                              NaN
+Name: PR(>F), dtype: float64
+seventyfivetoninetyninesalary C(InsuranceCategory, Sum)    1.498014e-51
+Residual                              NaN
+Name: PR(>F), dtype: float64
