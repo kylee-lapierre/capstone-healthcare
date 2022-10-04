@@ -1,10 +1,10 @@
 # Characteristics of Health Insurance and Access to Care across the United States and Minnesota
 
 
-### Objective
-Health insurance is a type of insurance that covers a portion of the cost of medical expenses. There is a portion of the population that is uninsured in the United States; understanding the factors behind lacking health insurance or sufficient access to healthcare could illuminate the way to improve health insurance coverage in the country and identify which American communities that are most in need of increased healthcare coverage and access. For the purpose of this work, those with *sufficient access to healthcare* include people who do not delay or avoid seeking healthcare services due to cost. *Uninsured* includes those who do not have health insurance for any reason.
+### Intro
+During the coronavirus pandemic and even some previous years, we have seen some concerning decreases in healthcare coverage. This project report reflects on data gathered from several sources including the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System (BRFSS),  from which we have used to analyze healthcare more precisely. Specifically, we examine factors behind lacking health insurance or lacking sufficient access to healthcare. 
 
-We are interested in understanding the factors that lead to a lack of health insurance and lacking health insurance or sufficient access to healthcare nationwide and in the counties in Minnesota in 2019. We are looking into race and ethnicity, gender, age, income, immigration status, educational attainment, and location to see how these play a role in someone’s insurance status. 
+In an increasingly diverse country, it is critical to not only track health insurance coverage overall, but also by various demographic groups. For this reason, a significant portion of our analysis takes into account numerous demographic factors such as age, race, sex, population, income level, etc. Additionally, we attempt to explain the ‘why’ behind the scenes of health insurance coverage. For instance, we analyze a large collection of data gathered by the National Health Interview Survey, which provides extensive information on not only demographic details but also reasons for lacking health insurance or access thereof. **The primary objective of our research is to identify trends or patterns of health insurance coverage so that resources can be best allocated to areas or groups where coverage is less common/accessible.** For the purpose of this work, we define *sufficient access to healthcare* as those who do not delay or avoid seeking healthcare services due to cost or location. *Uninsured* refer to those who do not have any type of health insurance. 
 
 
 
