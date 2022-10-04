@@ -42,24 +42,3 @@ We are interested in understanding the factors that lead to a lack of health ins
 
 ### Data Platform Diagram:
 ![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192818805-a0e8ec38-2a1c-4a01-8849-2e7805281b0c.png)
-
-
-### Library versions for other Jupyter notebooks
-* Numpy version: 1.20.3
-* Pandas version: 1.3.4
-* Pyspark version: 3.3.0
-* Requests version: 2.28.1
-* Scipy version: 1.7.1
-* Sklearn version: 0.24.2
-* Sodapy version: 2.2.0
-* Statsmodels version: 0.12.2
-
-
-### Library versions for running ML Model
-* Python version: 3.10.6
-* Matplotlib version:3.6.0
-* Numpy version: 1.23.3
-* Pandas version: 1.5.0
-* Pymssql version: 2.2.5
-* Seaborn version: 0.12.0
-* Sklearn version: 1.1.2
