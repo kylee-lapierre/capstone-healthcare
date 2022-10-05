@@ -14,7 +14,7 @@ In an increasingly diverse country, it is critical to not only track health insu
   * How does access to healthcare vary among Minnesota counties?
   * Do rates of uninsurance vary based on offered coverage types? 
   * Does the rate of uninsurance vary for individuals based on the number of hospitals in their county?
-  * Can we predict which areas will have more or less coverage based on demographics, income, hospital count or other factors?
+  * Can we predict who will have more or less coverage based on demographics, income, hospital count or other factors?
   * For those who are covered, is their coverage sufficient for their health needs?
 
 
