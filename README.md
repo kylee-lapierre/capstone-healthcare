@@ -44,7 +44,8 @@ In an increasingly diverse country, it is critical to not only track health insu
 
 
 ### Requirements to Run Code Folder Contents:
-* Azure Databricks
+* Azure Databricks for .ipynb files
+* Azure Data Studio for .sql file
 * [Required Libraries](https://github.com/kylee-lapierre/capstone-healthcare/blob/main/code/Required%20Libraries)
 * User name(s) for populating SQL tables
 * Password(s) for populatin SQL tables
