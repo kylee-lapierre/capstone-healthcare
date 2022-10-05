@@ -45,7 +45,7 @@ In an increasingly diverse country, it is critical to not only track health insu
 
 ### Requirements to Run Code Folder Contents:
 * Azure Databricks
-![Required Libraries] https://github.com/kylee-lapierre/capstone-healthcare/blob/main/code/Required%20Libraries
+* ![Required Libraries](https://github.com/kylee-lapierre/capstone-healthcare/blob/main/code/Required%20Libraries)
 * User name(s) for populating SQL tables
 * Password(s) for populatin SQL tables
 * App token for CDC Data API (instructions at: https://dev.socrata.com/foundry/chronicdata.cdc.gov/f7a2-7inb)
