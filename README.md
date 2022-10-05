@@ -43,7 +43,7 @@ In an increasingly diverse country, it is critical to not only track health insu
 ![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192818805-a0e8ec38-2a1c-4a01-8849-2e7805281b0c.png)
 
 
-### Requirements to run Code Folder Contents:
+### Requirements to Run Code Folder Contents:
 * Azure Databricks
 * User name(s) for populating SQL tables
 * Password(s) for populatin SQL tables
