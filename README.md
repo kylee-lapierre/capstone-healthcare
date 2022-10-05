@@ -32,7 +32,7 @@ In an increasingly diverse country, it is critical to not only track health insu
    * [Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (Subset for 2019)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/j32a-sa6u/data)
    * [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/index.htm)
    * [Population estimates and demographics by county for Minnesota for 2019](https://data.census.gov/cedsci/table?q=county%20population&g=0400000US27,27%240500000&tid=ACSDP1Y2021.DP05&moe=false)
-
+   * [Counties in United States](https://github.com/grammakov/USA-cities-and-states/blob/master/us_cities_states_counties.csv)
 
 
 ### Entity Relationship Diagram:
