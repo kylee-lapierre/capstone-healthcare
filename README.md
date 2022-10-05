@@ -20,15 +20,13 @@ In an increasingly diverse country, it is critical to not only track health insu
 
 
 ### Initial datasets:
-  * Census SAHIE 
-      * [2019 Small Area Health Insurance Estimates (SAHIE) using the American Community Survey (ACS) ](https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html)
-  * BRFSS: Healthcare Access/Coverage
-      * [BRFSS: Table of Health Care Access/Coverage | Chronic Disease and Health Promotion Data & Indicators (cdc.gov)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-Table-of-Health-Care-Access-Coverage/f7a2-7inb)
+  * [2019 Small Area Health Insurance Estimates (SAHIE) using the American Community Survey (ACS) ](https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html)
+  * [BRFSS: Table of Health Care Access/Coverage | Chronic Disease and Health Promotion Data & Indicators (cdc.gov)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-Table-of-Health-Care-Access-Coverage/f7a2-7inb)
   * Healthcare estimates by demographics & population (Census)
       * [S2701: SELECTED CHARACTERISTICS OF... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2701&moe=false)
       * Private health insurance: [S2703: PRIVATE HEALTH INSURANCE... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2703)
       * Public health insurance: [S2704: PUBLIC HEALTH INSURANCE... - Census Bureau Table](https://data.census.gov/cedsci/table?q=health%20insurance&g=0400000US27,27%240500000&tid=ACSST1Y2021.S2704)
-   * [Hopsital count by county in Minnesota for 2019](https://data.census.gov/cedsci/table?q=hospital%20cb&g=0400000US27,27%240500000)
+   * [Hospital count by county in Minnesota for 2019](https://data.census.gov/cedsci/table?q=hospital%20cb&g=0400000US27,27%240500000)
    * [Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (Subset for 2019)](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/j32a-sa6u/data)
    * [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/index.htm)
    * [Population estimates and demographics by county for Minnesota for 2019](https://data.census.gov/cedsci/table?q=county%20population&g=0400000US27,27%240500000&tid=ACSDP1Y2021.DP05&moe=false)
