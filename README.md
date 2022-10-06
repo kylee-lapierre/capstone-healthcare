@@ -12,9 +12,13 @@ In an increasingly diverse country, it is critical to not only track health insu
  3. [Entity Relationship Diagram](https://github.com/kylee-lapierre/capstone-healthcare#entity-relationship-diagram)
  4. [Data Platform Diagram](https://github.com/kylee-lapierre/capstone-healthcare#data-platform-diagram)
  5. [Selected Visualizations](https://github.com/kylee-lapierre/capstone-healthcare#selected-visualizations)
+ 
     a. [National](https://github.com/kylee-lapierre/capstone-healthcare#national-data)
+    
     b. [Minnesota](https://github.com/kylee-lapierre/capstone-healthcare#minnesota-data)
+    
     c. [Machine Learning Model](https://github.com/kylee-lapierre/capstone-healthcare#machine-learning-model)
+    
  6. [Requirements to Run Code Folder Contents](https://github.com/kylee-lapierre/capstone-healthcare#requirements-to-run-code-folder-contents)
 
 ### Exploratory Questions
