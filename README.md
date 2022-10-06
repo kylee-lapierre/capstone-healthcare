@@ -6,7 +6,8 @@ During the coronavirus pandemic and even some previous years, we have seen some 
 
 In an increasingly diverse country, it is critical to not only track health insurance coverage overall, but also by various demographic groups. For this reason, a significant portion of our analysis takes into account numerous demographic factors such as age, race, sex, population, income level, etc. Additionally, we attempt to explain the ‘why’ behind the scenes of health insurance coverage. For instance, we analyze a large collection of data gathered by the National Health Interview Survey, which provides extensive information on not only demographic details but also reasons for lacking health insurance or access thereof.  The primary objective of our research is to identify trends or patterns of health insurance coverage so that resources can be best allocated to areas or groups where coverage is less common/accessible. For the purpose of this work, we define sufficient access to healthcare as those who do not delay or avoid seeking healthcare services due to cost or location. Uninsured refer to those who do not have any type of health insurance. 
 
-
+### Table of Contents
+ 1. [Exploratory Questions](https://github.com/kylee-lapierre/capstone-healthcare#exploratory-questions)
 
 ### Exploratory Questions
   * How do unisurance rates vary among various demographics such as race, age, sex, population, income, educational attainment level?
