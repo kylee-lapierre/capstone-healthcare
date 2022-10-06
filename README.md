@@ -8,6 +8,10 @@ In an increasingly diverse country, it is critical to not only track health insu
 
 ### Table of Contents
  1. [Exploratory Questions](https://github.com/kylee-lapierre/capstone-healthcare#exploratory-questions)
+ 2. [Initial Datasets](https://github.com/kylee-lapierre/capstone-healthcare#initial-datasets)
+ 3. [Entity Relationship Diagram](https://github.com/kylee-lapierre/capstone-healthcare#entity-relationship-diagram)
+ 4. [Data Platform Diagram](https://github.com/kylee-lapierre/capstone-healthcare#data-platform-diagram)
+ 5. [Requirements to Run Code Folder Contents](https://github.com/kylee-lapierre/capstone-healthcare#requirements-to-run-code-folder-contents)
 
 ### Exploratory Questions
   * How do unisurance rates vary among various demographics such as race, age, sex, population, income, educational attainment level?
