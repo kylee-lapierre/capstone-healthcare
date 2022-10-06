@@ -55,7 +55,6 @@ In an increasingly diverse country, it is critical to not only track health insu
 
 ![Worry Over Healthcare Cost](https://user-images.githubusercontent.com/101714650/194363791-d6cd3b99-cf09-4c03-b756-a228fc6f7e75.png)
 
-
  #### Minnesota Data
 ![Uninsurance Rate by County in Minnesota](https://user-images.githubusercontent.com/101714650/194358211-016aea66-788e-455a-b86f-1e8fa92d0387.png)
 
