@@ -63,7 +63,7 @@ In an increasingly diverse country, it is critical to not only track health insu
 ![Worry Over Healthcare Cost](https://user-images.githubusercontent.com/101714650/194363791-d6cd3b99-cf09-4c03-b756-a228fc6f7e75.png)
 
  #### Minnesota Data
-![Uninsurance Rate by County in Minnesota](https://user-images.githubusercontent.com/101714650/194358211-016aea66-788e-455a-b86f-1e8fa92d0387.png)
+![Uninsurance Rate by County in Minnesota](https://user-images.githubusercontent.com/101714650/194365304-9c52a5e3-f9f4-414b-b554-b0b7dae7f752.png)
 
 ![Public Insurance, Twin Cities](https://user-images.githubusercontent.com/101714650/194359930-bf6c5036-96c9-4506-a22f-8804fb7ec9ef.png)
 
@@ -71,7 +71,7 @@ In an increasingly diverse country, it is critical to not only track health insu
 
 ![Hospital Type MN](https://user-images.githubusercontent.com/101714650/194361759-52540f1a-4176-475a-80be-ef01fe9ebc8e.png)
 
- ### Machine Learning Model
+ #### Machine Learning Model
  * First model: predicts the insured and uninsured section in each county for 2020
  ![Confusion-Matrix](https://user-images.githubusercontent.com/110693932/194364260-75a7b630-06c9-4ccc-bed7-fe960ceaf835.png)
  
