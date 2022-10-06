@@ -50,6 +50,8 @@ In an increasingly diverse country, it is critical to not only track health insu
 ### Selected Visualizations:
 ![Unisurance Rate by State, Age Group, and Income Level](https://user-images.githubusercontent.com/101714650/194357634-19fe8387-c7f5-4008-8074-a7875620c78d.png)
 
+![Insurance Survey Responses by Income Group](https://user-images.githubusercontent.com/101714650/194360923-1767e70a-370a-439f-b575-3daaa0db257f.png)
+
 ![Uninsurance Rate by County in Minnesota](https://user-images.githubusercontent.com/101714650/194358211-016aea66-788e-455a-b86f-1e8fa92d0387.png)
 
 ![Public Insurance, Twin Cities](https://user-images.githubusercontent.com/101714650/194359930-bf6c5036-96c9-4506-a22f-8804fb7ec9ef.png)
