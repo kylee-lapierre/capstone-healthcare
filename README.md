@@ -11,7 +11,8 @@ In an increasingly diverse country, it is critical to not only track health insu
  2. [Initial Datasets](https://github.com/kylee-lapierre/capstone-healthcare#initial-datasets)
  3. [Entity Relationship Diagram](https://github.com/kylee-lapierre/capstone-healthcare#entity-relationship-diagram)
  4. [Data Platform Diagram](https://github.com/kylee-lapierre/capstone-healthcare#data-platform-diagram)
- 5. [Requirements to Run Code Folder Contents](https://github.com/kylee-lapierre/capstone-healthcare#requirements-to-run-code-folder-contents)
+ 5. [Selected Visualizations](https://github.com/kylee-lapierre/capstone-healthcare#selected-visualizations)
+ 6. [Requirements to Run Code Folder Contents](https://github.com/kylee-lapierre/capstone-healthcare#requirements-to-run-code-folder-contents)
 
 ### Exploratory Questions
   * How do unisurance rates vary among various demographics such as race, age, sex, population, income, educational attainment level?
@@ -45,6 +46,18 @@ In an increasingly diverse country, it is critical to not only track health insu
 
 ### Data Platform Diagram:
 ![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192818805-a0e8ec38-2a1c-4a01-8849-2e7805281b0c.png)
+
+### Selected Visualizations:
+![Unisurance Rate by State, Age Group, and Income Level](https://user-images.githubusercontent.com/101714650/194357634-19fe8387-c7f5-4008-8074-a7875620c78d.png)
+
+![Uninsurance Rate by County in Minnesota](https://user-images.githubusercontent.com/101714650/194358211-016aea66-788e-455a-b86f-1e8fa92d0387.png)
+
+![Public Insurance, Twin Cities](https://user-images.githubusercontent.com/101714650/194359930-bf6c5036-96c9-4506-a22f-8804fb7ec9ef.png)
+
+![Fulltime Working Public Insurance Enrollees, Twin Cities](https://user-images.githubusercontent.com/101714650/194359724-a33c9e93-1649-4edc-8517-9f50c927283d.png)
+
+
+
 
 
 ### Requirements to Run Code Folder Contents:
