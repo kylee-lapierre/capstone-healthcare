@@ -73,7 +73,8 @@ In an increasingly diverse country, it is critical to not only track health insu
 
  #### Machine Learning Model
  * First model: predicts the insured and uninsured section in each county for 2020
- ![Confusion-Matrix](https://user-images.githubusercontent.com/110693932/194364260-75a7b630-06c9-4ccc-bed7-fe960ceaf835.png)
+ ![Insurance Status Model](https://user-images.githubusercontent.com/101714650/194422263-cae4cec8-ed1f-4538-8e2a-8c1e8cb48ce8.png)
+
  
  * Second model: predicts the uninsured population that earns less than $25,000 for 2020
  ![ElasticNet](https://user-images.githubusercontent.com/110693932/194364282-1c5d1535-2654-4903-997a-1edb362573f0.png)
