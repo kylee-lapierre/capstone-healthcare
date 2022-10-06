@@ -48,18 +48,22 @@ In an increasingly diverse country, it is critical to not only track health insu
 ![Data_Platform_Diagram](https://user-images.githubusercontent.com/110693932/192818805-a0e8ec38-2a1c-4a01-8849-2e7805281b0c.png)
 
 ### Selected Visualizations:
+ #### National Data
 ![Unisurance Rate by State, Age Group, and Income Level](https://user-images.githubusercontent.com/101714650/194357634-19fe8387-c7f5-4008-8074-a7875620c78d.png)
 
-![Insurance Survey Responses by Income Group](https://user-images.githubusercontent.com/101714650/194360923-1767e70a-370a-439f-b575-3daaa0db257f.png)
+![Insurance Survey Responses by Income Group](https://user-images.githubusercontent.com/101714650/194362332-34a20d1c-d980-499b-8872-e21fee836622.png)
 
+![Worry Over Healthcare Cost](https://user-images.githubusercontent.com/101714650/194363791-d6cd3b99-cf09-4c03-b756-a228fc6f7e75.png)
+
+
+ #### Minnesota Data
 ![Uninsurance Rate by County in Minnesota](https://user-images.githubusercontent.com/101714650/194358211-016aea66-788e-455a-b86f-1e8fa92d0387.png)
 
 ![Public Insurance, Twin Cities](https://user-images.githubusercontent.com/101714650/194359930-bf6c5036-96c9-4506-a22f-8804fb7ec9ef.png)
 
 ![Fulltime Working Public Insurance Enrollees, Twin Cities](https://user-images.githubusercontent.com/101714650/194359724-a33c9e93-1649-4edc-8517-9f50c927283d.png)
 
-
-
+![Hospital Type MN](https://user-images.githubusercontent.com/101714650/194361759-52540f1a-4176-475a-80be-ef01fe9ebc8e.png)
 
 
 ### Requirements to Run Code Folder Contents:
